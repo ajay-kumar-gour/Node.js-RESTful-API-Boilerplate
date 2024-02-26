@@ -26,10 +26,9 @@ The project follows a common structure for organizing Node.js applications. Here
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/nodejs-restful-api-boilerplate.git
-
-   ```
+```bash
+git clone https://github.com/your-username/nodejs-restful-api-boilerplate.git
+```
 
 2. Install dependencies:
 
